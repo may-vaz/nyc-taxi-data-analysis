@@ -2,7 +2,7 @@
 
 This project is a simple data analysis using NYC taxi data.
 
-🔗 **Dataset source:** [Kaggle - Revenue for Cab Drivers](https://www.kaggle.com/datasets/diishasiing/revenue-for-cab-drivers/data)
+🔗 **Dataset source:** [Kaggle - NYC Taxi Fare Dataset](https://www.kaggle.com/datasets/diishasiing/revenue-for-cab-drivers/data)
 
 ## 📊 Things done
 
